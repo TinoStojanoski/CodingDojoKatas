@@ -1,0 +1,15 @@
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\bin\Debug\net7.0\CodingDojoKatas.exe
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\bin\Debug\net7.0\CodingDojoKatas.deps.json
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\bin\Debug\net7.0\CodingDojoKatas.runtimeconfig.json
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\bin\Debug\net7.0\CodingDojoKatas.dll
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\bin\Debug\net7.0\CodingDojoKatas.pdb
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.csproj.AssemblyReference.cache
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.AssemblyInfoInputs.cache
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.AssemblyInfo.cs
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.csproj.CoreCompileInputs.cache
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.dll
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\refint\CodingDojoKatas.dll
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.pdb
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\CodingDojoKatas.genruntimeconfig.cache
+C:\Users\tino.stojanoski\source\repos\CodingDojoKatas\CodingDojoKatas\obj\Debug\net7.0\ref\CodingDojoKatas.dll
